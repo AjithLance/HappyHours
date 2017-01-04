@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "117179310222",
+    "firebase_url": "https://happyhour-7b7eb.firebaseio.com",
+    "project_id": "happyhour-7b7eb",
+    "storage_bucket": "happyhour-7b7eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117179310222:android:c5291c0c00c2c7d7",
+        "android_client_info": {
+          "package_name": "com.food.sumit.happyhours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117179310222-gtl3p5qv4r9jui268bfksklp2jklk8qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.sumit.happyhours",
+            "certificate_hash": "662BCD9EC50FC92BAE05FBAC2D599C7944282093"
+          }
+        },
+        {
+          "client_id": "117179310222-kac3f6sckbfu2rfuvk4ha1o2mqnaov7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDyUGeYtE52-dOe_Z0dg0yQTh1tHrMVz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117179310222-kac3f6sckbfu2rfuvk4ha1o2mqnaov7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

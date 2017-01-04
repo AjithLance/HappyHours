@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Happy Hours</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Food Offer!</string>
+    <string name="slide_1_desc">The easiest way to find food offer from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Great Discounts!</string>
+    <string name="slide_2_desc">Get to know about special offer everyday!</string>
+
+    <string name="slide_3_title">Lets Get Started </string>
+    <string name="slide_3_desc">Happy Hour!</string>
+
+
+
+
+</resources>
